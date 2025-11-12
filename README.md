@@ -111,15 +111,10 @@ Contributions are welcome! If you'd like to add exercises or improve explanation
 
 ---
 
-## 📜 License
-Add an appropriate license file (e.g., MIT) if you want others to reuse the code freely.
-
----
-
 ## 📬 Contact
 If you want help polishing the repo, reorganizing the files, or creating a polished `CONTRIBUTING.md` / `requirements.txt`, tell me which parts you'd like me to produce next — I can generate ready‑to‑copy files. ✨
 
 ---
 
-Made with ❤️ by **Prothes Barai** (or your GitHub username) — happy coding! 🎉
+Made with ❤️ by **Prothes Barai** — happy coding! 🎉
 
